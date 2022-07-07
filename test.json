@@ -1,31 +1,31 @@
 {
-  "name": "CCC OG TOKEN",
-  "symbol": "CCCOG",
-  "description": "This token allows you to mint in the PRE sale of CCC",
+  "name": "AVU Coin",
+  "symbol": "AVU",
+  "description": "Use these tokens as your mint Raffle",
   "seller_fee_basis_points": 10000,
-  "image": "https://arweave.net/GoWvqamYVyQ4kBNN_KQfDtjjb47m-RQMjd7DJ_iYSec",
+  "image": "https://www.arweave.net/y-gHAS5wan-Z8VC1-DPvQuLLfG86OKSw0YYFONx1a6o",
   "attributes": [
       {
           "trait_type": "Type",
-          "value": "OG"
+          "value": "AVU Coin"
       }
   ],
   "properties": {
       "creators": [
           {
-              "address": "9MQnxys5HsbLKVs2TfP4r65zYb1dnLry6WBx6DMXJ5US",
+              "address": "<Wallet that made the token>",
               "share": 100
           }
       ],
       "files": [
           {
-              "uri": "https://arweave.net/GoWvqamYVyQ4kBNN_KQfDtjjb47m-RQMjd7DJ_iYSec",
+              "uri": "https://www.arweave.net/y-gHAS5wan-Z8VC1-DPvQuLLfG86OKSw0YYFONx1a6o",
               "type": "image/png"
           }
       ]
   },
   "collection": {
-      "name": "CCC OG TOKEN",
-      "family": "CCC OG TOKEN"
+      "name": "AVU Coin",
+      "family": "AVU Coin"
   }
 }
