@@ -3,7 +3,7 @@
   "symbol": "KC",
   "description": "Use these tokens as your mint Raffle",
   "seller_fee_basis_points": 10000,
-  "image": "https://www.arweave.net/y-gHAS5wan-Z8VC1-DPvQuLLfG86OKSw0YYFONx1a6o",
+  "image": "https://raw.githubusercontent.com/Imaginedevdisc/tokendata/main/unknown.png",
   "attributes": [
       {
           "trait_type": "Type",
@@ -19,7 +19,7 @@
       ],
       "files": [
           {
-              "uri": "https://www.arweave.net/y-gHAS5wan-Z8VC1-DPvQuLLfG86OKSw0YYFONx1a6o",
+              "uri": "https://raw.githubusercontent.com/Imaginedevdisc/tokendata/main/unknown.png",
               "type": "image/png"
           }
       ]
