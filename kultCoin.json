@@ -1,13 +1,13 @@
 {
-  "name": "AVU Coin",
-  "symbol": "AVU",
+  "name": "kult Coin",
+  "symbol": "KC",
   "description": "Use these tokens as your mint Raffle",
   "seller_fee_basis_points": 10000,
   "image": "https://www.arweave.net/y-gHAS5wan-Z8VC1-DPvQuLLfG86OKSw0YYFONx1a6o",
   "attributes": [
       {
           "trait_type": "Type",
-          "value": "AVU Coin"
+          "value": "KC Mint"
       }
   ],
   "properties": {
@@ -25,7 +25,7 @@
       ]
   },
   "collection": {
-      "name": "AVU Coin",
-      "family": "AVU Coin"
+      "name": "KC",
+      "family": "KC"
   }
 }
