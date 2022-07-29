@@ -1,0 +1,27 @@
+{
+  "name": "Solana Lucky Wheel WL TOKEN",
+  "symbol": "SLWOG",
+  "seller_fee_basis_points":9999,
+  "description": "This token lets you mint in the WL sale of Solana Lucky Wheel",
+  "image": "https://arweave.net/Fq0kaUht73CuzczpQolHLTi0CD7qqMlTu7yBxs74_l4",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "WL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/Fq0kaUht73CuzczpQolHLTi0CD7qqMlTu7yBxs74_l4",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7VfVv9sjs81rNgBAe26qoifqHjGGdYMtxT6K75fZ3X7m",
+        "share": 100
+      }
+    ]
+  }
+}
