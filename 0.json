@@ -1,0 +1,27 @@
+{
+  "name": "Solana Lucky Wheel OG TOKEN",
+  "symbol": "SLWOG",
+  "seller_fee_basis_points":9999,
+  "description": "This token lets you mint in the OG sale of Solana Lucky Wheel",
+  "image": "https://arweave.net/2cJ7pQdbsTqtC2ye5oNHPIdaeaH56WyBGUtFYX_ycGM",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "OG"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/2cJ7pQdbsTqtC2ye5oNHPIdaeaH56WyBGUtFYX_ycGM",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7VfVv9sjs81rNgBAe26qoifqHjGGdYMtxT6K75fZ3X7m",
+        "share": 100
+      }
+    ]
+  }
+}
